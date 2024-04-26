@@ -3,7 +3,7 @@
 ## Problem1  Repeated DNA Sequences (https://leetcode.com/problems/repeated-dna-sequences/)
 
 
-## Problem2 Favourite Genres
+## Problem2 Favourite Genres (https://leetcode.com/playground/Z3VJa4bn)
 
 Given a map Map<String, List<String>> userSongs with user names as keys and a list of all the songs that the user has listened to as values.
 
